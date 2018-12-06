@@ -5,5 +5,5 @@ Hey Hey, hello world.
 
 New Local changes.
 
-HEAD
+<<<<<< HEAD
 again
